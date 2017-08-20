@@ -2,6 +2,10 @@
 
 This is a repository for training an AI agent to play Connect 4 using reinforcement learning. Currently, a Q-learning RL algorithm. This also supports 2 player mode.
 
+## Dependencies
+
+Pygame for python2.7
+
 ## Running the Program
 
 Train a new agent manually
