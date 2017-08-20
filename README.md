@@ -8,13 +8,11 @@ Pygame for python2.7
 
 ## Running the Program
 
-Train a new agent manually
-
-To initialize a new agent and begin a new game loop, simply run:
-
 python2.7 connect4.py [iterations] 
 
 (iterations is the number of iterations you want to train the computer which plays against itself) By default it is 20 if an argument is not provided
+
+To train the agent, select Train Computer in the main menu. It will play iterations games which was passed as an argument to the program. After training the computer, when 'vs Computer' option is selected, a human can play against the trained computer. Note that each time 'Train Computer' mode is selected, it trains from the beginning.
 
 ## Controls
 
